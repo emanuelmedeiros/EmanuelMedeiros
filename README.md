@@ -1,4 +1,7 @@
-### Hi there 👋
+### Always seeking knowledge! 📚
+
+Whenever possible, learning and contributing to the open-souce community !
+
 
 <!--
 **emanuelmedeiros/EmanuelMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
